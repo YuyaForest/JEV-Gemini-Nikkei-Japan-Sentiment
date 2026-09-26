@@ -1,0 +1,6 @@
+{
+  "name": "Nikkei Japan Sentiment Radar",
+  "description": "日経平均株価の1時間足ヒストリカルデータとType-Safe AIを活用し、日本のお気持ち（6段階センチメント）を判定・可視化するダッシュボード",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
